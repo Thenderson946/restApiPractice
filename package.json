@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "connect": "3.6.6"
+  }
+}
