@@ -8,6 +8,10 @@
  */
 const axios = require('axios');
 
+const API_KEY = 'abc123ect....';
+
+const API_URL = 'https://gorest.co.in/public/v2/users';
+
 async function createUser(user) {
   try {
     // Use Axios to call POST to the /users API, return the posted data if success
